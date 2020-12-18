@@ -1,0 +1,10 @@
+CSS merupakan singkatan dari cascading style sheets. css merupakan bahasa pemrograman yang digunakan untuk web design 
+css dapat digunakan untuk mengubah font ukuran font dan format font selain itu tampilan form warna element 
+tinggi element dan lain lain.
+cara penggunaan css antara lain file css di simpan dengan ekstensi css kemudian di import menggunakan 
+<link rel="stylesheet" type="text/css" href="style.css"/>
+jika file css terletak di luar folder maka bisa dihubungkan dengan
+href="../style.css"
+
+jika file css terletak dalam sebuah folder
+href="namafolder/style.css"
